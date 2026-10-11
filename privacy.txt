@@ -1,0 +1,29 @@
+Politique de confidentialité — Frog’s Weather Snow
+Mise à jour : 11 octobre 2026
+
+Contact de l’éditeur
+Pour toute question ou demande concernant vos données : kevin.portais@gmail.com.
+
+Fonctionnement de l’application
+Frog’s Weather Snow présente des prévisions météo et neige. Aucun compte n’est nécessaire. L’application ne demande pas la position GPS de votre appareil et n’intègre ni publicité ni outil de suivi publicitaire ou d’analyse d’audience.
+
+Données enregistrées sur votre appareil
+Les favoris, les lieux récemment consultés, les préférences d’affichage et les prévisions mises en cache sont enregistrés dans le stockage de l’application. L’historique conserve au maximum huit lieux et le cache météo principal douze lieux. Les profils d’altitude consultés sont également conservés en cache. Ces données restent jusqu’à leur remplacement ou leur suppression. Android peut les inclure dans une sauvegarde ou un transfert d’appareil selon vos réglages système.
+
+Requêtes météo et recherche
+Pour obtenir les prévisions, l’application transmet à Open-Meteo les coordonnées du lieu choisi et, pour un profil d’altitude, les altitudes demandées. La recherche en ligne transmet le texte saisi au service de géocodage Open-Meteo utilisant GeoNames. Le lieu choisi peut être différent de votre position réelle. Ces connexions utilisent HTTPS ; le fournisseur reçoit aussi les informations techniques nécessaires à la connexion, notamment l’adresse IP.
+
+Fournisseur météo
+Open-Meteo indique pouvoir conserver des journaux techniques comprenant des adresses IP et des coordonnées géographiques pendant au maximum 90 jours pour le dépannage et la prévention des abus. Consultez ses conditions et sa politique : https://open-meteo.com/en/terms. L’éditeur de Frog’s Weather Snow ne dispose pas d’un serveur collectant votre historique ou vos favoris.
+
+Liens externes
+Les sites des stations, webcams et bulletins officiels s’ouvrent dans une application externe. Leur propre politique de confidentialité s’applique lors de la consultation.
+
+Suppression et contrôle
+Vous pouvez retirer vos favoris et effacer l’historique dans l’application. Pour supprimer l’ensemble des données locales, utilisez les réglages Android de l’application, rubrique stockage, puis effacez ses données. Les éventuelles sauvegardes système se gèrent séparément dans les réglages Android. Une suppression locale ne supprime pas les journaux techniques déjà reçus par Open-Meteo.
+
+Assistance
+Si vous nous contactez par e-mail, votre adresse et le contenu du message servent à traiter votre demande. Ne joignez pas de données sensibles inutiles. Vous pouvez demander la suppression de ces échanges à la même adresse, sous réserve des obligations de conservation applicables.
+
+Évolutions
+Cette politique sera mise à jour si les fonctionnalités ou les traitements de données changent. La date de mise à jour figure en haut du document.
